@@ -23,11 +23,11 @@ Android DeviceEasy is an educational project that blends programming and Android
 **Important Note**:  
 This application is intended for educational purposes and authorized device management only. It must not be used to bypass security features, such as screen locks or FRP, as this violates Google’s EULA and may result in bans. Always obtain device owner consent before use.  
 
-[![Get Started](https://img.shields.io/badge/Get_Started-NOW-blueviolet)](https://github.com/DroidLearnHub/Android-DeviceEasy)  
+[![Get Started](https://img.shields.io/badge/Get_Started-NOW-blueviolet)](https://github.com/DroidLearnHubs/.github)  
 
 ---
 
-[![Get Started](https://img.shields.io/badge/Get_Started-NOW-blueviolet)](https://github.com/DroidLearnHub/Android-DeviceEasy)  
+[![Get Started](https://img.shields.io/badge/Get_Started-NOW-blueviolet)](https://github.com/DroidLearnHubs/.github)  
 
 ---
 
